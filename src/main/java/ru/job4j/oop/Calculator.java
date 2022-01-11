@@ -13,11 +13,11 @@ public class Calculator {
     }
 
     public static int minus(int b) {
-        return x - b;
+        return b - x;
     }
 
     public int divide(int c) {
-        return x / c;
+        return c / x;
     }
 
     public int sumAllOperation(int d) {
@@ -25,18 +25,18 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        int resSum = Calculator.sum(10);
-        System.out.println(resSum);
+        int rslSum = Calculator.sum(10);
+        System.out.println(rslSum);
         Calculator calculator = new Calculator();
         int rslMult = calculator.multiply(5);
         System.out.println(rslMult);
-        int resMin = Calculator.minus(10);
-        System.out.println(resMin);
+        int rslMin = Calculator.minus(10);
+        System.out.println(rslMin);
         Calculator cal = new Calculator();
-        int resDiv = cal.divide(5);
-        System.out.println(resDiv);
+        int rslDiv = cal.divide(5);
+        System.out.println(rslDiv);
         Calculator calcul = new Calculator();
-        int ressumALL = calcul.sumAllOperation(2);
-        System.out.println(ressumALL);
+        int rslsumALL = calcul.sumAllOperation(2);
+        System.out.println(rslsumALL);
     }
 }
