@@ -22,7 +22,7 @@ import static java.lang.Math.sqrt;
         }
 
         public double area() {
-            double rsl = 0;
+            double rsl = 0.1;
             double ab = first.distance(second);
             double ac = first.distance(third);
             double bc = second.distance(third);
@@ -33,4 +33,3 @@ import static java.lang.Math.sqrt;
             return rsl;
         }
     }
-
