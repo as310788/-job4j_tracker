@@ -18,12 +18,12 @@ public class TriangleTest {
     }
 
     @Test
-    public void when00and02and20Then4() {
-        Point a = new Point(0, 0);
-        Point b = new Point(2, 0);
-        Point c = new Point(0, 0);
+    public void when81and21and51Thenminus1() {
+        Point a = new Point(8, 1);
+        Point b = new Point(2, 1);
+        Point c = new Point(5, 1);
         Triangle triangle = new Triangle(a, b, c);
         double rsl = triangle.area();
-        assertThat(rsl, closeTo(4, 0.001));
+        assertThat(rsl, closeTo(-1, 0.001));
     }
 }
