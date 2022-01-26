@@ -9,3 +9,5 @@
 5. Производить поиск по имени заявки.
    1) /Рефакторинг/Площадь/треугольника[#122642 #255294]
 [refactor2 treugol2](https://github.com/as310788/-job4j_tracker/blob/master/images/refactor%20treugol.png)
+   2) тест треугольника
+[test triangle](https://github.com/as310788/-job4j_tracker/blob/master/images/test%20triangle.png)
