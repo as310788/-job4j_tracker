@@ -7,5 +7,5 @@
 3. Удалять заявку по ID.
 4. Отображать список всех заявок.
 5. Производить поиск по имени заявки.
-   2.2/Рефакторинг/Площадь треугольника[#122642 #255294]
-[refactor2 thriangle2](https://github.com/as310788/-job4j_tracker/blob/master/images/refactor2.png)
+   1) /Рефакторинг/Площадь/треугольника[#122642 #255294]
+[refactor2 treugol2](https://github.com/as310788/-job4j_tracker/blob/master/images/refactor%20treugol.png)
