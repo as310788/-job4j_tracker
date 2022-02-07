@@ -15,5 +15,5 @@
 [load ITEM2](https://github.com/as310788/-job4j_tracker/blob/master/images/LOAD%20ITEM.png)
    4)Реализация профессий в коде[#6837 #258629]
 [realiz prof2](https://github.com/as310788/-job4j_tracker/blob/master/images/realiz%20prof.png)
-   4. Переопределение [#174890 #261508] + test
-[pereopredelenie raz](https://github.com/as310788/-job4j_tracker/blob/master/images/%D0%9F%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png)
+   5)Переопределение[#174890 #261508]+test
+[pereopredel raz test](https://github.com/as310788/-job4j_tracker/blob/master/images/%D0%9F%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png)
