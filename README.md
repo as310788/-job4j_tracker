@@ -19,5 +19,5 @@
 [pereopredel raz test](https://github.com/as310788/-job4j_tracker/blob/master/images/%D0%9F%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png)
    6)Аннотация @Override[#174891]
 [annotacia override](https://github.com/as310788/-job4j_tracker/blob/master/images/override.png)
-   3) 6. Date. Отображение даты.[#310017]
+   7)6.Date.Отображение даты.[#310017]
 [date now](https://github.com/as310788/-job4j_tracker/blob/master/images/view%20date.png)
