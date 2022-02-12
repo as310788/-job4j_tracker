@@ -23,5 +23,5 @@
 [date now](https://github.com/as310788/-job4j_tracker/blob/master/images/view%20date.png)
    3) Что такое инкапсуляция.[#3818 #262364]
 [inkapsulacia](https://github.com/as310788/-job4j_tracker/blob/master/images/%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%B8%D0%BD%D0%BA%D0%B0%D0%BF%D1%81%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F..png)
-   8)3. Массивы и модели. [#174892 #262423]
+   8)3. Массивы и модели.[#174892 #262423]
 [massiv and metod](https://github.com/as310788/-job4j_tracker/blob/master/images/metod%20and%20massiv.png)
