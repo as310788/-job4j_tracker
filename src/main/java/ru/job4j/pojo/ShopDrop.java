@@ -13,7 +13,7 @@ public class ShopDrop {
     public static void main(String[] args) {
         Product[] products = new Product[2];
         products[0] = new Product("Milk", 10);
-        products[1] = new Product("Bread", 4);
+        products[1] = new Product("Bread", 5);
         Product[] rsl = ShopDrop.delete(products, 1);
         System.out.println(rsl);
     }
