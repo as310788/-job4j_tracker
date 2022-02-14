@@ -14,7 +14,7 @@ public class Shop {
     public static void main(String[] args) {
         Product[] products = new Product[5];
         products[0] = new Product("Milk", 10);
-        products[1] = new Product("Bread", 4);
+        products[1] = new Product("Bread", 6);
         products[2] = new Product("Egg", 19);
         int rsl = Shop.indexOfNull(products);
         System.out.println(rsl);
