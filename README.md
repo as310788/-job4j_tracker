@@ -25,7 +25,7 @@
 [inkapsulacia](https://github.com/as310788/-job4j_tracker/blob/master/images/%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%B8%D0%BD%D0%BA%D0%B0%D0%BF%D1%81%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F..png)
 13. 3/.Массивы и модели. [#174892 #262423]
 [massiv and metod](https://github.com/as310788/-job4j_tracker/blob/master/images/metod%20and%20massiv.png)
-14. 3.1.Массив с пустыми ячейками[#176470 #264388] + test
+14. 3.1. Массив с пустыми ячейками [#176470 #264388] + test + PRODUCT
 [massiv s pustimi test](https://github.com/as310788/-job4j_tracker/blob/master/images/%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%B9%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2.png)
 15. 3.2. Удаление моделей из массива. [#310016]
 [deleted massiv](https://github.com/as310788/-job4j_tracker/commit/62ec5d42292f361fc215bf8b0a02bc6fbe1e54ef)
