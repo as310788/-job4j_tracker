@@ -29,5 +29,5 @@
 [massiv s pustimi test](https://github.com/as310788/-job4j_tracker/blob/master/images/%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%B9%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2.png)
 15. 3.2. Удаление моделей из массива. [#310016]
 [deleted massiv](https://github.com/as310788/-job4j_tracker/commit/62ec5d42292f361fc215bf8b0a02bc6fbe1e54ef)
-16. 3.2. Удаление моделей из массива. [#310016 #264417] test
+16. 3.2. Удаление моделей из массива.[#310016 #264417] test
 [deleted test](https://github.com/as310788/-job4j_tracker/blob/master/images/test1.png)
