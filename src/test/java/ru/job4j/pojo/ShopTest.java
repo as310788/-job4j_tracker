@@ -10,7 +10,7 @@ public class ShopTest {
     public void whenLastNull() {
         Product[] products = new Product[5];
         products[0] = new Product("Milk", 10);
-        products[1] = new Product("Bread", 4);
+        products[1] = new Product("Bread", 5);
         products[2] = new Product("Egg", 19);
         int rsl = Shop.indexOfNull(products);
         assertThat(rsl, is(3));
