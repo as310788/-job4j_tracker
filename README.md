@@ -31,5 +31,5 @@
     [deleted massiv](https://github.com/as310788/-job4j_tracker/commit/62ec5d42292f361fc215bf8b0a02bc6fbe1e54ef)
 16. 3.2. Удаление моделей из массива.[#310016 #264417] test
 [deleted test](https://github.com/as310788/-job4j_tracker/blob/master/images/test1.png)
-17. 4. Сравнение моделей. Метод equals [#174893]
-[equals](https://github.com/as310788/-job4j_tracker/commit/fb09640cd146c46104700b327a36671ee9548521)
+17. 4. Сравнение моделей. Метод equals + test[#174893 #264808]
+[equals metod +test](https://github.com/as310788/-job4j_tracker/commit/fb09640cd146c46104700b327a36671ee9548521)
