@@ -33,6 +33,6 @@
 [deleted test](https://github.com/as310788/-job4j_tracker/blob/master/images/test1.png)
 17. 4. Сравнение моделей. Метод equals + test[#174893 #264808]
 [equals metod +test](https://github.com/as310788/-job4j_tracker/commit/fb09640cd146c46104700b327a36671ee9548521)
-18. 5. Tracker - хранилище+тест [#396]
-[tracker test](https://github.com/as310788/-job4j_tracker/blob/master/images/Tracker%20-%20%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5.png)
+18. 5. Tracker - хранилище [#396 #264876]
+[tracker + test](https://github.com/as310788/-job4j_tracker/blob/master/images/Tracker%20-%20%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5.png)
 
