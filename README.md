@@ -39,3 +39,5 @@
 [metod id+test](https://github.com/as310788/-job4j_tracker/blob/master/images/metod%20id.png)
 20. 7. Метод удаления заявки Tracker.delete [#211749]
 [metod deleted](https://github.com/as310788/-job4j_tracker/blob/master/images/metod%20deleted.png)
+21. 8. Что такое валидация? [#246864]
+[validate](https://github.com/as310788/-job4j_tracker/blob/master/images/validacia.png)
