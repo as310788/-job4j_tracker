@@ -37,3 +37,5 @@
 [tracker + test](https://github.com/as310788/-job4j_tracker/blob/master/images/Tracker%20-%20%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5.png)
 19. 6. Метод замены заявки. Tracker.replace+test [#211748]
 [metod id+test](https://github.com/as310788/-job4j_tracker/blob/master/images/metod%20id.png)
+20. 7. Метод удаления заявки Tracker.delete [#211749]
+[metod deleted](https://github.com/as310788/-job4j_tracker/blob/master/images/metod%20deleted.png)
