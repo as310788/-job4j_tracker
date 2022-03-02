@@ -41,5 +41,5 @@
 [metod deleted](https://github.com/as310788/-job4j_tracker/blob/master/images/metod%20deleted.png)
 21. 8. Что такое валидация? [#246864]
 [validate](https://github.com/as310788/-job4j_tracker/blob/master/images/validacia.png)
-22. 9. toString [#310018]
-[toString](https://github.com/as310788/-job4j_tracker/blob/master/images/toString.png)
+22. 9. toString+StartUI [#310018]
+[toString+StartUI](https://github.com/as310788/-job4j_tracker/blob/master/images/startUl.png)
