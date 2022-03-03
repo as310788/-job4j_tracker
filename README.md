@@ -45,3 +45,5 @@
 [toString+StartUI](https://github.com/as310788/-job4j_tracker/blob/master/images/startUl.png)
 23. 1. Чтение из консоли. Класс Scanner. [#179514]
 [magicball](https://github.com/as310788/-job4j_tracker/blob/master/images/magicball.png)
+24. 2. Scanner и чтение числа из консоли. [#179518]
+[spichki](https://github.com/as310788/-job4j_tracker/blob/master/images/%D1%81%D0%BF%D0%B8%D1%87%D0%BA%D0%B8.png)
