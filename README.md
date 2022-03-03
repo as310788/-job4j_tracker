@@ -43,3 +43,5 @@
 [validate](https://github.com/as310788/-job4j_tracker/blob/master/images/validacia.png)
 22. 9. toString+StartUI [#310018]
 [toString+StartUI](https://github.com/as310788/-job4j_tracker/blob/master/images/startUl.png)
+23. 1. Чтение из консоли. Класс Scanner. [#179514]
+[magicball](https://github.com/as310788/-job4j_tracker/blob/master/images/magicball.png)
