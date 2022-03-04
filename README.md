@@ -57,3 +57,5 @@
 [izmemenie zajvok](https://github.com/as310788/-job4j_tracker/blob/master/images/change%20zajvok.png)
 29. 2.6. Реализация класса StartUI. Удаление заявки [#500747]
 [deleted zajvok](https://github.com/as310788/-job4j_tracker/blob/master/images/deleted.png)
+30. 2.7. Реализация класса StartUI. Вывод заявки по id [#500748]
+[search zajvok](https://github.com/as310788/-job4j_tracker/blob/master/images/search%20zajvok.png)
