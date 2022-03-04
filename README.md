@@ -49,3 +49,5 @@
 [spichki+matches](https://github.com/as310788/-job4j_tracker/blob/master/images/%D1%81%D0%BF%D0%B8%D1%87%D0%BA%D0%B8.png)
 25. 2.2. Реализация класса StartUI. Вывод меню [#500743]
 [StartUI](https://github.com/as310788/-job4j_tracker/blob/master/images/StartUI.png)
+26. 2.3. Реализация класса StartUI. Добавление заявки [#500744]
+[new id](https://github.com/as310788/-job4j_tracker/blob/master/images/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8.png)
