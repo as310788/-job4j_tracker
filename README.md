@@ -61,5 +61,5 @@
 [search zajvok](https://github.com/as310788/-job4j_tracker/blob/master/images/search%20zajvok.png)
 31. 2.8. Реализация класса StartUI. Вывод заявок по имени [#500749]
 [find name](https://github.com/as310788/-job4j_tracker/blob/master/images/find%20test.png)
-32. 3. 3. Интерфейс Input+BUS+[#181092 #272563]
+32. 3. 3. Интерфейс Input+BUS+Transport[#181092 #272563]
 [transport](https://github.com/as310788/-job4j_tracker/blob/master/images/transport.png)
