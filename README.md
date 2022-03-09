@@ -63,5 +63,5 @@
 [find name](https://github.com/as310788/-job4j_tracker/blob/master/images/find%20test.png)
 32. 3. 3. Интерфейс Input+BUS+Transport[#181092 #272563]
 [transport](https://github.com/as310788/-job4j_tracker/blob/master/images/transport.png)
-33. 3.1. Приведение типов. Повышение типа и понижение типа. UP DOWN[#181322]
+33. 3.1.Приведение типов. Повышение типа и понижение типа.DOWN up[#181322]
 [up and down](https://github.com/as310788/-job4j_tracker/blob/master/images/up%20and%20down.png)
