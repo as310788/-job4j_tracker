@@ -65,5 +65,5 @@
 [transport](https://github.com/as310788/-job4j_tracker/blob/master/images/transport.png)
 33. 3.1.Приведение типов. Повышение типа и понижение типа.DOWN up[#181322]
 [up and down](https://github.com/as310788/-job4j_tracker/blob/master/images/up%20and%20down.png)
-34. 3.2. Зачем нужно приведение типов Bus[#310019]
-[Bus](https://github.com/as310788/-job4j_tracker/blob/master/images/Vehicle.png)
+34. 3.2. Зачем нужно приведение типов Discovery[#310019]
+[Discovery](https://github.com/as310788/-job4j_tracker/blob/master/images/Vehicle.png)
