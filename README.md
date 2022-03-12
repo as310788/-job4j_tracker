@@ -67,5 +67,5 @@
 [up and down](https://github.com/as310788/-job4j_tracker/blob/master/images/up%20and%20down.png)
 34. 3.2. Зачем нужно приведение типов Discovery[#310019]
 [Discovery](https://github.com/as310788/-job4j_tracker/blob/master/images/Vehicle.png)
-35. 4.1. Разрыв зависимости StartUI от Scanner. [#181778]
+35. 4.1. Разрыв зависимости StartUI от Scanner. Input ConsoleInput [#181778]
 [Start ot Scanner](https://github.com/as310788/-job4j_tracker/blob/master/images/razriv.png)
