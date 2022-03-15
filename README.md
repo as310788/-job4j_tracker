@@ -69,5 +69,5 @@
 [Discovery](https://github.com/as310788/-job4j_tracker/blob/master/images/Vehicle.png)
 35. 4.1. Разрыв зависимости StartUI от Scanner[#181778]
 [Start ot Scanner](https://github.com/as310788/-job4j_tracker/blob/master/images/razriv.png)
-36. 4.2. Статические методы. [#181779]
-[static metod](https://github.com/as310788/-job4j_tracker/commit/d7b8fba6d8324cbce37122825e291058b6a94ac9)
+36. 4.2. Статические методы. [#181779 #275029]
+[static metod2](https://github.com/as310788/-job4j_tracker/commit/d7b8fba6d8324cbce37122825e291058b6a94ac9)
