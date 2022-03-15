@@ -24,10 +24,9 @@ public class StartUI {
 
     public static void editItem(Input input, Tracker tracker) {
         System.out.println("=== Edit item ===");
-        System.out.print("Enter id: ");
         int id = input.askInt("Enter id: ");
         System.out.print("Enter name: ");
-        String name = input.askStr("Enter id: ");
+        String name = input.askStr("Enter name: ");
         Item item = new Item(name);
         if (tracker.replace(id, item)) {
             System.out.println("Заявка изменена успешно.");
@@ -38,7 +37,6 @@ public class StartUI {
 
     public static void deleteItem(Input input, Tracker tracker) {
         System.out.println("=== Delete item ===");
-        System.out.print("Enter id: ");
         int id = input.askInt("Enter id: ");
         if (tracker.delete(id)) {
             System.out.println("Заявка удалена успешно.");
@@ -49,7 +47,6 @@ public class StartUI {
 
     public static void findByIdItem(Input input, Tracker tracker) {
         System.out.println("=== Find item by id ===");
-        System.out.print("Enter id: ");
         int id = input.askInt("Enter id: ");
         Item item = tracker.findById(id);
         if (item != null) {
