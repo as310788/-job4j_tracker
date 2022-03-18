@@ -71,5 +71,5 @@
 [Start ot Scanner](https://github.com/as310788/-job4j_tracker/blob/master/images/razriv.png)
 36. 4.2. Статические методы. передел 2 [#181779 #275029]
 [static metod2](https://github.com/as310788/-job4j_tracker/commit/d7b8fba6d8324cbce37122825e291058b6a94ac9)
-37. 5. Input и полиморфизм.
+37. 5. Input и полиморфизм. [#181094]
 [creatitem](https://github.com/as310788/-job4j_tracker/blob/master/images/create.png)
