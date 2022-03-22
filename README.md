@@ -73,5 +73,5 @@
 [static metod2](https://github.com/as310788/-job4j_tracker/commit/d7b8fba6d8324cbce37122825e291058b6a94ac9)
 37. 5. Input и полиморфизм. [#181094]
 [creatitem](https://github.com/as310788/-job4j_tracker/blob/master/images/create.png)
-38. 5.1.СоЗДАНИЕ ТестированиЯ.Подготовка данных.перенос [#182960]
-[2edititem2](https://github.com/as310788/-job4j_tracker/blob/master/images/edititem.png)
+38. 5.1. Тестирование.Подготовка данных. [#182960 #277188]
+[2edititem3 deleteItem](https://github.com/as310788/-job4j_tracker/blob/master/images/edititem.png)
