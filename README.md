@@ -75,5 +75,5 @@
 [creatitem](https://github.com/as310788/-job4j_tracker/blob/master/images/create.png)
 38. 5.1. Тестирование.Подготовка данных. [#182960 #277188]
 [2edititem3 deleteItem](https://github.com/as310788/-job4j_tracker/blob/master/images/edititem.png)
-39. 7. Шаблон проектирования - Стратегия [#786]
-[shablon](https://github.com/as310788/-job4j_tracker/blob/master/images/draw.png)
+39. 7. Шаблон проектирования [#786]
+[shablon2](https://github.com/as310788/-job4j_tracker/blob/master/images/draw.png)
