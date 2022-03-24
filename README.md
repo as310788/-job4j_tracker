@@ -77,5 +77,5 @@
 [2edititem3 deleteItem](https://github.com/as310788/-job4j_tracker/blob/master/images/edititem.png)
 39. Проектирование стратегия шаблон
 [шаблон](https://github.com/as310788/-job4j_tracker/blob/master/images/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.png)
-40. 8. Реализация меню за счет шаблона стратегия. [#181780 #279628]
-[UserACTION](https://github.com/as310788/-job4j_tracker/blob/master/images/user.png)
+40. Реализация\меню за счет\шаблона\стратегия. [#181780]
+[1UserACTION1](https://github.com/as310788/-job4j_tracker/blob/master/images/user.png)
