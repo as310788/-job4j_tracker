@@ -79,3 +79,5 @@
 [шаблон](https://github.com/as310788/-job4j_tracker/blob/master/images/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.png)
 40. Реализация меню за счет шаблона стратегия[#181780]
 [5UserACTION5](https://github.com/as310788/-job4j_tracker/blob/master/images/user.png)
+41. 9. Написать тесты на StartUI. [#785]
+[testStartUI](https://github.com/as310788/-job4j_tracker/blob/master/images/Test%20STARTUI.png)
