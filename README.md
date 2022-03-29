@@ -81,5 +81,5 @@
 [5UserACTION5](https://github.com/as310788/-job4j_tracker/blob/master/images/user.png)
 41. 9. Написать тесты на StartUI. [#785]
 [testStartUI](https://github.com/as310788/-job4j_tracker/blob/master/images/Test%20STARTUI.png)
-42. kjgjhgjfjfdjfdjdr
-[ConsoleInput](https://github.com/as310788/-job4j_tracker/blob/master/images/ref.png)
+42. 9.1 Зависимость от System.out [#33568]
+[1ConsoleInput1](https://github.com/as310788/-job4j_tracker/blob/master/images/ref.png)
