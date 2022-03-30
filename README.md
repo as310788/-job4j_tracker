@@ -87,5 +87,5 @@
 [testStarUI](https://github.com/as310788/-job4j_tracker/blob/master/images/test%202%20StartUI.png)
 44. 0. Что такое исключение. [#3821]
 [oshibka](https://github.com/as310788/-job4j_tracker/blob/master/images/blackaray.png)
-45. 0.1. java.lang.NullPointerException [#219364]
-[findmaxlenght](https://github.com/as310788/-job4j_tracker/blob/master/images/FindMaxLenght.png)
+45. java.lang.NullPointerException[#219364 #282146]
+[2findmaxlenght2](https://github.com/as310788/-job4j_tracker/blob/master/images/FindMaxLenght.png)
