@@ -85,3 +85,5 @@
 [2ConsoleInput22](https://github.com/as310788/-job4j_tracker/blob/master/images/ref.png)
 43. 9.2. Тесты вывода на консоль [#33585]
 [testStarUI](https://github.com/as310788/-job4j_tracker/blob/master/images/test%202%20StartUI.png)
+44. 0. Что такое исключение. [#3821]
+[oshibka](https://github.com/as310788/-job4j_tracker/blob/master/images/blackaray.png)
