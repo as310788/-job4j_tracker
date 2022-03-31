@@ -89,3 +89,5 @@
 [1oshibka1](https://github.com/as310788/-job4j_tracker/blob/master/images/blackaray.png)
 45. 0.1. java.lang.NullPointerException [#219364 #282146]
 [2findmaxlenght](https://github.com/as310788/-job4j_tracker/blob/master/images/FindMaxLenght.png)
+46. 0.2. Кидаем исключение - throw new RuntimeException [#219365]
+[fact](https://github.com/as310788/-job4j_tracker/blob/master/images/Fact.png)
