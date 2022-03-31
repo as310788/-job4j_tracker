@@ -91,5 +91,5 @@
 [2findmaxlenght](https://github.com/as310788/-job4j_tracker/blob/master/images/FindMaxLenght.png)
 46. 0.2. Кидаем исключение - throw new RuntimeException [#219365]
 [fact](https://github.com/as310788/-job4j_tracker/blob/master/images/Fact.png)
-47. 0.3.0.3. Тестирование исключений с junit[#219366 #282540]
-[FactTest2](https://github.com/as310788/-job4j_tracker/blob/master/images/FactTest.png)
+47. 0.3.Тестирование исключений с junit[#219366 #282540]
+[FactTest](https://github.com/as310788/-job4j_tracker/blob/master/images/FactTest.png)
