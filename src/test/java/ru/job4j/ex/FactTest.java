@@ -13,6 +13,6 @@ public class FactTest {
     @Test(expected = IllegalArgumentException.class)
     public void whenNLess0() {
         Fact fact = new Fact();
-        fact.calc(- 10);
+        fact.calc(-10);
     }
 }
