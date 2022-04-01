@@ -17,7 +17,7 @@ public class FindEl {
     }
 
     public static void main(String[] args) {
-        String[] names = {"Petr", "Ivan", "Nik", "Vanya"};
+        String[] names = {"Petr", "Ivan", "Nik", "Vanya", "Alex"};
         try {
             System.out.println(indexOf(names, "Ivan"));
         } catch (ElementNotFoundException e) {
