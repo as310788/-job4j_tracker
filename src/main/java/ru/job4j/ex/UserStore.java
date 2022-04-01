@@ -14,15 +14,16 @@ public class UserStore {
         if (!user.isValid() || user.getUsername().length() < 3) {
             throw new UserInvalidException("пользователь не валидный");
         }
-        return true;
+        return false;
     }
 
     public static void main(String[] args) {
         User[] users = {
                 new User("Petr Arsentev", true),
+                new User("Dart Veider", false)
         };
         try {
-            User user = findUser(users, "Pe");
+            User user = findUser(users, "Da");
             if (validate(user)) {
                 System.out.println("This user has an access");
             }
