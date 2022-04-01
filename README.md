@@ -93,5 +93,5 @@
 [fact](https://github.com/as310788/-job4j_tracker/blob/master/images/Fact.png)
 47. Тестирование исключений с junit [#219366 #282540]
 [FactTest10](https://github.com/as310788/-job4j_tracker/blob/master/images/FactTest.png)
-48. 0.4. Пользовательские исключения. [#219367]
-[polzavatelskoe iskluchenie](https://github.com/as310788/-job4j_tracker/blob/master/images/element.png)
+48. 0.4.Пользовательские исключения.[#219367 #283041]
+[polzavatelskoeiskluchenie](https://github.com/as310788/-job4j_tracker/blob/master/images/element.png)
