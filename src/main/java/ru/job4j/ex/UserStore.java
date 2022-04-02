@@ -14,7 +14,7 @@ public class UserStore {
         if (!user.isValid() || user.getUsername().length() < 3) {
             throw new UserInvalidException("пользователь не валидный");
         }
-        return false;
+        return true;
     }
 
     public static void main(String[] args) {
