@@ -101,3 +101,5 @@
 [factrec](https://github.com/as310788/-job4j_tracker/commit/bc0ddc693f121150917b5164003f4cad89c6f862)
 51. 0.5. Иерархия исключений и множественный catch. [#219368 #283103]
 [REFACTsTARui](https://github.com/as310788/-job4j_tracker/blob/master/images/StartUI205.png)
+52. 1.1. Тесты на StartUI. [#223313]
+[test Exit](https://github.com/as310788/-job4j_tracker/blob/master/images/testExit.png)
