@@ -103,8 +103,6 @@
 [REFACTsTARui](https://github.com/as310788/-job4j_tracker/blob/master/images/StartUI205.png)
 52. 1.1. Тесты на StartUI. [#223313]
 [test Exit](https://github.com/as310788/-job4j_tracker/blob/master/images/testExit.png)
-Рефакторинг-Шаблон Декоратор для валидатора.[#34117 #285113]
-53. Рефакторинг-Шаблон Декоратор для валидатора.[#34117 #285113]
-[validator1](https://github.com/as310788/-job4j_tracker/blob/master/images/validator.png)
-54. 3. Замена if-else-throw на if-throw [#49895]
-[find](https://github.com/as310788/-job4j_tracker/blob/master/images/find.png)
+53. Рефакторинг - Шаблон Декоратор для валидатора.[#34117 #285113]
+[validator12](https://github.com/as310788/-job4j_tracker/blob/master/images/validator.png)
+
