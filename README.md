@@ -103,3 +103,5 @@
 [REFACTsTARui](https://github.com/as310788/-job4j_tracker/blob/master/images/StartUI205.png)
 52. 1.1. Тесты на StartUI. [#223313]
 [test Exit](https://github.com/as310788/-job4j_tracker/blob/master/images/testExit.png)
+53. 2. Рефакторинг - Шаблон Декоратор для валидатора. [#34117]
+[validator](https://github.com/as310788/-job4j_tracker/blob/master/images/validator.png)
