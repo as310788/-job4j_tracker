@@ -109,3 +109,5 @@
 [testvalidate](https://github.com/as310788/-job4j_tracker/blob/master/images/test%20validate.png)
 55.3. Замена if-else-throw на if-throw [#49895 #285115]
 [zamena](https://github.com/as310788/-job4j_tracker/blob/master/images/find.png)
+55. 1. Singleton [#94606]
+[singleton](https://github.com/as310788/-job4j_tracker/blob/master/images/singletracker.png)
