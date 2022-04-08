@@ -111,3 +111,5 @@
 [zamena](https://github.com/as310788/-job4j_tracker/blob/master/images/find.png)
 55. 1. Singleton [#94606]
 [singleton](https://github.com/as310788/-job4j_tracker/blob/master/images/singletracker.png)
+56. 2. final [#334073]
+[final](https://github.com/as310788/-job4j_tracker/blob/master/images/final.png)
