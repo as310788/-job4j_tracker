@@ -113,5 +113,5 @@
 [singleton](https://github.com/as310788/-job4j_tracker/blob/master/images/singletracker.png)
 56. final[#334073]
 [final10](https://github.com/as310788/-job4j_tracker/blob/master/images/final.png)
-57. 0. Коллекции, ArrayList, List, Обобщения [#10094]
-[ArrayList](https://github.com/as310788/-job4j_tracker/blob/master/images/ArrayList.png)
+57. Коллекции, ArrayList, List, Обобщения [#10094 #291858]
+[ArrayList10](https://github.com/as310788/-job4j_tracker/blob/master/images/ArrayList.png)
