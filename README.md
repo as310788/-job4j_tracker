@@ -115,5 +115,5 @@
 [final10](https://github.com/as310788/-job4j_tracker/blob/master/images/final.png)
 57. Коллекции, ArrayList, List, Обобщения [#10094 #291858]
 [ArrayList10](https://github.com/as310788/-job4j_tracker/blob/master/images/ArrayList.png)
-58. 1. Телефонный справочник на базе ArrayList [#41598]
-[phone](https://github.com/as310788/-job4j_tracker/blob/master/images/phone.png)
+58. Телефонный-справочник на базе ArrayList[#41598]
+[phone and test](https://github.com/as310788/-job4j_tracker/blob/master/images/phone.png)
