@@ -121,5 +121,5 @@
 [PriorityQueue](https://github.com/as310788/-job4j_tracker/blob/master/images/PriorityQueue.png)
 60. 3. Конвертация ArrayList в двухмерный массив [#10035]
 [converter](https://github.com/as310788/-job4j_tracker/blob/master/images/converter1000.png)
-4. Конвертация двумерного массива в ArrayList [#48580]
+4. Конвертация двумерного-массива в-ArrayList[#48580]
 [convertermatrix](https://github.com/as310788/-job4j_tracker/blob/master/images/convertermatrix.png)
