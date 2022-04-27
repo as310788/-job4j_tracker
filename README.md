@@ -117,5 +117,5 @@
 [ArrayList10](https://github.com/as310788/-job4j_tracker/blob/master/images/ArrayList.png)
 58. Телефонный-справочник на базе ArrayList[#41598]
 [phone and test](https://github.com/as310788/-job4j_tracker/blob/master/images/phone.png)
-59. 2. Очередь с приоритетом на LinkedList [#41670]
+59. Очередь с приоритетом на-LinkedList[#41670]
 [PriorityQueue](https://github.com/as310788/-job4j_tracker/blob/master/images/PriorityQueue.png)
