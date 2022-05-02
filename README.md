@@ -125,3 +125,5 @@
 [convertermatrix1](https://github.com/as310788/-job4j_tracker/blob/master/images/convertermatrix.png)
 62. Конвертация листа массивов-в-один-лист-Integer [#10037]
 [converter](https://github.com/as310788/-job4j_tracker/blob/master/images/converte2000.png)
+63. 6. Изменить программу Tracker из 2-го модуля [#10039]
+[newTracker](https://github.com/as310788/-job4j_tracker/blob/master/images/newtracker.png)
