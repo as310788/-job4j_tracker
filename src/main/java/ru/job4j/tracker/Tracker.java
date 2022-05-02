@@ -15,19 +15,18 @@ public class Tracker {
         return item;
     }
 
-    public Item[] findAll() {
-        return items.toArray(new Item[0]);
+    public List<Item> findAll() {
+        return List.copyOf(items);
     }
 
-    public Item[] findByName(String key) {
-        Item[] array = new Item[items.size()];
-        int index = 0;
-        for (int i = 0; i < items.size(); i++) {
-            if (key.equals(items.get(i).getName())) {
-                array[index++] = items.get(i);
+    public List<Item> findByName(String key) {
+        List<Item> itemsName = new ArrayList<>();
+        for (Item item : items) {
+            if (key.equals(item.getName())) {
+            itemsName.add(item);
             }
         }
-        return Arrays.copyOf(array, index);
+        return itemsName;
     }
 
     public Item findById(int id) {
