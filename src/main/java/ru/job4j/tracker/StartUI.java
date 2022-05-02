@@ -5,6 +5,7 @@ public class StartUI {
     private final Output out;
 
     public StartUI(Output out) {
+
         this.out = out;
     }
 
