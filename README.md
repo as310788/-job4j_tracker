@@ -133,3 +133,5 @@
 [Fullsearch](https://github.com/as310788/-job4j_tracker/blob/master/images/Fullsearch.png)
 65. 2. Идентичные тексты [#212655]
 [UniqueText](https://github.com/as310788/-job4j_tracker/blob/master/images/uniquetekst.png)
+66. 3. Модели данных и HashSet. [#218530]
+[NotifyAccount](https://github.com/as310788/-job4j_tracker/blob/master/images/Account.png)
