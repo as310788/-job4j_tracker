@@ -127,4 +127,6 @@
 [converter](https://github.com/as310788/-job4j_tracker/blob/master/images/converte2000.png)
 63.Изменить программу Tracker из второго модуля[#10039 #296134]
 [newTracker15](https://github.com/as310788/-job4j_tracker/blob/master/images/newtracker.png)
+63. 0. Set, HashSet, Iterator. [#10095]
+[HashSet](https://github.com/as310788/-job4j_tracker/blob/master/images/HashSet.png)
 
