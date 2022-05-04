@@ -131,3 +131,5 @@
 [HashSet](https://github.com/as310788/-job4j_tracker/blob/master/images/HashSet.png)
 64. 1. Уникальные задачи fullsearch [#212653 #297062]
 [Fullsearch](https://github.com/as310788/-job4j_tracker/blob/master/images/Fullsearch.png)
+65. 2. Идентичные тексты [#212655]
+[UniqueText](https://github.com/as310788/-job4j_tracker/blob/master/images/uniquetekst.png)
