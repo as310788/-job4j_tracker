@@ -129,5 +129,5 @@
 [newTracker15](https://github.com/as310788/-job4j_tracker/blob/master/images/newtracker.png)
 63. 0. Set, HashSet, Iterator. [#10095]
 [HashSet](https://github.com/as310788/-job4j_tracker/blob/master/images/HashSet.png)
-64. 1. Уникальные задачи. [#212653]
-[Fullsearch](https://github.com/as310788/-job4j_tracker/blob/master/images/Fullsearch.png)
+64. 1. Уникальные-задачи[#212653 #297062]
+[Fullsearch10](https://github.com/as310788/-job4j_tracker/blob/master/images/Fullsearch.png)
