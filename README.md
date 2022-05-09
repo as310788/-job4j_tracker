@@ -135,5 +135,5 @@
 [UniqueText](https://github.com/as310788/-job4j_tracker/blob/master/images/uniquetekst.png)
 66. 3. Модели данных и HashSet. [#218530]
 [NotifyAccount](https://github.com/as310788/-job4j_tracker/blob/master/images/Account.png)
-67. 5. Вызов переопределенного метода родителя - super.method ... [#504871]
-[PIZZA](https://github.com/as310788/-job4j_tracker/blob/master/images/PIZZA.png)
+67.5. Вызов переопределенного метода родителя - super.method ... [#504871 #298976]
+[PIZZAa](https://github.com/as310788/-job4j_tracker/blob/master/images/PIZZA.png)
