@@ -139,5 +139,5 @@
 [PIZZAa](https://github.com/as310788/-job4j_tracker/blob/master/images/PIZZA.png)
 68. 0. Map, HashMap [#212652]
 [HashMap](https://github.com/as310788/-job4j_tracker/blob/master/images/HashMap.png)
-69. 1. Паспорт и жители [#212656]
-[Passport](https://github.com/as310788/-job4j_tracker/blob/master/images/Passport.png)
+69. Паспорт и жители[#212656]
+[Passport0](https://github.com/as310788/-job4j_tracker/blob/master/images/Passport.png)
