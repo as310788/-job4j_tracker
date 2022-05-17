@@ -143,3 +143,5 @@
 [Passport8](https://github.com/as310788/-job4j_tracker/blob/master/images/Passport.png)
 70. 2. Преобразования List в Map. [#10093 #301896]
 [Order](https://github.com/as310788/-job4j_tracker/blob/master/images/orderconverter.png)
+71. 3. Банковские переводы [#10038]
+[bank](https://github.com/as310788/-job4j_tracker/blob/master/images/bank.png)
