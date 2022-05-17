@@ -141,3 +141,5 @@
 [HashMap](https://github.com/as310788/-job4j_tracker/blob/master/images/HashMap.png)
 69. 1. Паспорт и жители[#212656 #301473]
 [Passport8](https://github.com/as310788/-job4j_tracker/blob/master/images/Passport.png)
+70. 2. Преобразования List в Map. [#10093]
+[Order](https://github.com/as310788/-job4j_tracker/blob/master/images/orderconverter.png)
