@@ -145,3 +145,5 @@
 [Order](https://github.com/as310788/-job4j_tracker/blob/master/images/orderconverter.png)
 71. 3. Банковские переводы [#10038]
 [bank](https://github.com/as310788/-job4j_tracker/blob/master/images/bank.png)
+72. 0. Сортировка [#10096]
+[sort](https://github.com/as310788/-job4j_tracker/blob/master/images/sort.png)
