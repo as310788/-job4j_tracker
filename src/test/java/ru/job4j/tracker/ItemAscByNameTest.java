@@ -12,11 +12,11 @@ public class ItemAscByNameTest {
     @Test
     public void whenSortByNameItemAToZ() {
         List<Item> items = Arrays.asList(
-                new Item(2, "BBBB"),
-                new Item(3, "AAAA"),
-                new Item(1, "CCCC")
+                new Item(2, "Petr"),
+                new Item(3, "Ivan"),
+                new Item(1, "Alex")
         );
         Collections.sort(items, new ItemAscByName());
-        assertThat(items.get(0).getName(), is("AAAA"));
+        assertThat(items.get(0).getName(), is("Alex"));
     }
 }
