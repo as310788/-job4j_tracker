@@ -146,4 +146,4 @@
 71. 3. Банковские переводы [#10038]
 [bank](https://github.com/as310788/-job4j_tracker/blob/master/images/bank.png)
 72. testСОРТИРОВКАtest[#10096]
-[sorttest](https://github.com/as310788/-job4j_tracker/blob/master/images/sort.png)
+[sorttest100](https://github.com/as310788/-job4j_tracker/blob/master/images/sort.png)
