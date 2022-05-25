@@ -145,5 +145,5 @@
 [Order](https://github.com/as310788/-job4j_tracker/blob/master/images/orderconverter.png)
 71. 3. Банковские переводы [#10038]
 [bank](https://github.com/as310788/-job4j_tracker/blob/master/images/bank.png)
-72. сортировка плюс тест[#10096]
-[sorttest100](https://github.com/as310788/-job4j_tracker/blob/master/images/sort.png)
+72. СОРТИРОВКА-ПЛЮС-ТЕСТЫ[#10096]
+[sorttesT](https://github.com/as310788/-job4j_tracker/blob/master/images/sort.png)
