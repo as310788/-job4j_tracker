@@ -149,5 +149,5 @@
 [sorttesT](https://github.com/as310788/-job4j_tracker/blob/master/images/sort.png)
 73. 1. Организовать сортировку User [#10034]
 [user sort](https://github.com/as310788/-job4j_tracker/blob/master/images/user%20sort.png)
-74. Комбинированный-компаратор[#10036]
-[combi comparator100](https://github.com/as310788/-job4j_tracker/blob/master/images/job.png)
+74. 2.Комбинированный-компаратор [#10036]
+[combi-comparator](https://github.com/as310788/-job4j_tracker/blob/master/images/job.png)
