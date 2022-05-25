@@ -147,3 +147,5 @@
 [bank](https://github.com/as310788/-job4j_tracker/blob/master/images/bank.png)
 72. СОРТИРОВКА-ПЛЮС-ТЕСТЫ[#10096]
 [sorttesT](https://github.com/as310788/-job4j_tracker/blob/master/images/sort.png)
+73. 1. Организовать сортировку User [#10034]
+[user sort](https://github.com/as310788/-job4j_tracker/blob/master/images/user%20sort.png)
