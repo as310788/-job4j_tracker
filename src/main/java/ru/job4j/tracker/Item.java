@@ -4,24 +4,25 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Objects;
 
-public class Item implements Comparable<Item> {
-
+public class Item {
     private int id;
+
     private String name;
+
     private LocalDateTime created = LocalDateTime.now();
+
     private static final DateTimeFormatter FORMATTER = DateTimeFormatter.ofPattern("dd-MMMM-EEEE-yyyy HH:mm:ss");
 
     public Item() {
-
     }
 
     public Item(String name) {
         this.name = name;
     }
 
-    public Item(String name, int id) {
-        this.name = name;
+    public Item(int id, String name) {
         this.id = id;
+        this.name = name;
     }
 
     public int getId() {
@@ -54,11 +55,6 @@ public class Item implements Comparable<Item> {
     }
 
     @Override
-    public int compareTo(Item another) {
-        return Integer.compare(id, another.id);
-    }
-
-    @Override
     public boolean equals(Object o) {
         if (this == o) {
             return true;
@@ -67,11 +63,11 @@ public class Item implements Comparable<Item> {
             return false;
         }
         Item item = (Item) o;
-        return id == item.id && Objects.equals(name, item.name) && Objects.equals(created, item.created);
+        return id == item.id && Objects.equals(name, item.name);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(name);
+        return Objects.hash(id, name);
     }
 }
