@@ -145,7 +145,7 @@
 [Order](https://github.com/as310788/-job4j_tracker/blob/master/images/orderconverter.png)
 71. 3. Банковские переводы [#10038]
 [bank](https://github.com/as310788/-job4j_tracker/blob/master/images/bank.png)
-72. СОРТИРОВКА-ПЛЮС-ТЕСТЫ[#10096]
+72. 0. Сортировка [#10096 #305003]
 [sorttesT](https://github.com/as310788/-job4j_tracker/blob/master/images/sort.png)
 73. 1. Организовать сортировку User [#10034]
 [user sort](https://github.com/as310788/-job4j_tracker/blob/master/images/user%20sort.png)
@@ -153,5 +153,3 @@
 [combi-comparator](https://github.com/as310788/-job4j_tracker/blob/master/images/job.png)
 75. 3. .Компаратор-для-строк[#35008]
 [string-comparator](https://github.com/as310788/-job4j_tracker/blob/master/images/string%20compare.png)
-76. 0. Сортировка [#10096 #305003]
-[user-sort](https://github.com/as310788/-job4j_tracker/blob/master/images/user%20sort.png)
