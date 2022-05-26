@@ -7,7 +7,6 @@ import java.util.Collections;
 import java.util.List;
 
 public class ItemAscByNameTest {
-
     @Test
     public void whenSortByNameItemAToZ() {
         List<Item> items = Arrays.asList(
