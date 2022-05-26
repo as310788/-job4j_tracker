@@ -10,15 +10,15 @@ public class ItemAscByNameTest {
     @Test
     public void whenSortByNameItemAToZ() {
         List<Item> items = Arrays.asList(
-                new Item("Petr", 2),
-                new Item("Ivan", 3),
-                new Item("Alex", 1)
+                new Item("Petr"),
+                new Item("Ivan"),
+                new Item("Alex")
         );
         Collections.sort(items, new ItemAscByName());
         List<Item> expected = Arrays.asList(
-                new Item("Alex", 1),
-                new Item("Ivan", 3),
-                new Item("Petr", 2)
+                new Item("Alex"),
+                new Item("Ivan"),
+                new Item("Petr")
         );
         Assert.assertEquals(items, expected);
     }
