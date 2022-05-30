@@ -155,3 +155,6 @@
 [string-comparator](https://github.com/as310788/-job4j_tracker/blob/master/images/string%20compare.png)
 76. 4. Сортировка номера+тест [#221284]
 [sortirovka-number](https://github.com/as310788/-job4j_tracker/blob/master/images/number%20sortirovka.png)
+77. 2. Что такое JavaDoc [#313879]
+[Java DOC](https://github.com/as310788/-job4j_tracker/blob/master/images/java%20doc.png)
+
