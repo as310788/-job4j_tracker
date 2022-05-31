@@ -157,4 +157,6 @@
 [sortirovka-number](https://github.com/as310788/-job4j_tracker/blob/master/images/number%20sortirovka.png)
 77. 2. Что такое JavaDoc [#313879]
 [Java DOC](https://github.com/as310788/-job4j_tracker/blob/master/images/java%20doc.png)
+78. 2. Отсортировать департаменты [#34352]
+[departments](https://github.com/as310788/-job4j_tracker/blob/master/images/Departments.png)
 
