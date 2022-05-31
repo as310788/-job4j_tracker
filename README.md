@@ -157,8 +157,9 @@
 [sortirovka-number](https://github.com/as310788/-job4j_tracker/blob/master/images/number%20sortirovka.png)
 77. 2. Что такое JavaDoc [#313879]
 [Java DOC](https://github.com/as310788/-job4j_tracker/blob/master/images/java%20doc.png)
-78. 2. Отсортировать департаменты+тесты [#34352]
+78. 2. Отсортировать департаменты [#34352 #307403]
 [departments10](https://github.com/as310788/-job4j_tracker/blob/master/images/Departments.png)
-79. 1.1. Анонимные классы [#214142]
+79. 1.1. Анонимные классы[#214142]
 [anonim](https://github.com/as310788/-job4j_tracker/blob/master/images/anonim.png)
+
 
