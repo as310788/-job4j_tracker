@@ -161,5 +161,7 @@
 [departments10](https://github.com/as310788/-job4j_tracker/blob/master/images/Departments.png)
 79. 1.1. Анонимные классы[#214142]
 [anonim](https://github.com/as310788/-job4j_tracker/blob/master/images/anonim.png)
+80. 1.2. Функциональный интерфейс [#247497]
+[func interfice](https://github.com/as310788/-job4j_tracker/blob/master/images/Func%20interfice.png)
 
 
