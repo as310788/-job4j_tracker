@@ -167,5 +167,7 @@
 [predi nterfice](https://github.com/as310788/-job4j_tracker/blob/master/images/search%20folder%202.png)
 82. 2.2. Лямбда блок [#249208]
 [LambdaUsage](https://github.com/as310788/-job4j_tracker/blob/master/images/LambdaUsage.png)
+83. 3. Ссылки на методы [#70608]
+[forEach](https://github.com/as310788/-job4j_tracker/blob/master/images/forEach.png)
 
 
