@@ -169,5 +169,7 @@
 [LambdaUsage](https://github.com/as310788/-job4j_tracker/blob/master/images/LambdaUsage.png)
 83. 3. Ссылки на методы [#70608]
 [forEach](https://github.com/as310788/-job4j_tracker/blob/master/images/forEach.png)
+84. 4. Зона видимости в лямбда-выражениях и исключения [#70609]
+[zona view](https://github.com/as310788/-job4j_tracker/blob/master/images/scope%20inside.png)
 
 
