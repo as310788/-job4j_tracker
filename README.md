@@ -165,5 +165,7 @@
 [func-interfice](https://github.com/as310788/-job4j_tracker/blob/master/images/Func%20interfice.png)
 81. 1.3. 1.3. Встроенные функциональные интерфейсы. [#249209 #310960]
 [predi nterfice](https://github.com/as310788/-job4j_tracker/blob/master/images/search%20folder%202.png)
+82. 2.2. Лямбда блок [#249208]
+[LambdaUsage](https://github.com/as310788/-job4j_tracker/blob/master/images/LambdaUsage.png)
 
 
