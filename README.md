@@ -171,7 +171,7 @@
 [forEach](https://github.com/as310788/-job4j_tracker/blob/master/images/forEach.png)
 84. 4. Зона видимости в лямбда-выражениях-и-исключения[#70609]
 [zona view](https://github.com/as310788/-job4j_tracker/blob/master/images/scope%20inside.png)
-85. 5. Подсчет функции в диапазоне. [#24251]
-[diapason func](https://github.com/as310788/-job4j_tracker/blob/master/images/DiapasonFunction.png)
+85. 5. Подсчет функции в диапазоне+тест. [#24251]
+[diapasonfunc](https://github.com/as310788/-job4j_tracker/blob/master/images/DiapasonFunction.png)
 
 
