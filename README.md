@@ -173,5 +173,7 @@
 [zona view](https://github.com/as310788/-job4j_tracker/blob/master/images/scope%20inside.png)
 85. 5. Подсчет функции в диапазоне+тест. [#24251]
 [diapasonfunc](https://github.com/as310788/-job4j_tracker/blob/master/images/DiapasonFunction.png)
+86. 6. Функции высшего порядка [#24255]
+[phone search](https://github.com/as310788/-job4j_tracker/blob/master/images/Search%20Phone.png)
 
 
