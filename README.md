@@ -177,8 +177,10 @@
 [phone search](https://github.com/as310788/-job4j_tracker/blob/master/images/Search%20Phone.png)
 87. 0. Stream API [#58166]
 [Stream AP 0](https://github.com/as310788/-job4j_tracker/blob/master/images/streamAP%200.png)
-88.  0.1. Отладка лямбда в IDEA [#259165 #314455]
+88. 0.1. Отладка лямбда в IDEA [#259165 #314455]
 [streamUsage10](https://github.com/as310788/-job4j_tracker/blob/master/images/streamUsage.png)
+89. 1. Фильтрация учеников [#110058]
+[shoolandstufent](https://github.com/as310788/-job4j_tracker/blob/master/images/SHOOLANDSTUDENT.png)
        
 
 
