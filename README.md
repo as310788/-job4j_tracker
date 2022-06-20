@@ -175,5 +175,8 @@
 [diapasonfunc](https://github.com/as310788/-job4j_tracker/blob/master/images/DiapasonFunction.png)
 86. 6. Функции высшего порядка [#24255]
 [phone search](https://github.com/as310788/-job4j_tracker/blob/master/images/Search%20Phone.png)
+87. 0. Stream API [#58166]
+[Stream AP 0](https://github.com/as310788/-job4j_tracker/blob/master/images/streamAP%200.png)
+       
 
 
