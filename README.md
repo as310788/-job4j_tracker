@@ -183,6 +183,8 @@
 [shoolandstufent](https://github.com/as310788/-job4j_tracker/blob/master/images/SHOOLANDSTUDENT.png)
 90. 2. Список адресов+тест[#110062]
 [list adress тест](https://github.com/as310788/-job4j_tracker/blob/master/images/list%20adress.png)
+91. 4. Преобразование List в Map. [#110226]
+[List v Map](https://github.com/as310788/-job4j_tracker/blob/master/images/List%20in%20Map.png)
        
 
 
