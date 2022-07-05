@@ -185,8 +185,8 @@
 [list adress тест](https://github.com/as310788/-job4j_tracker/blob/master/images/list%20adress.png)
 91. 4. Преобразование List в Map+тест. [#110226]
 [List v Map тест](https://github.com/as310788/-job4j_tracker/blob/master/images/List%20in%20Map.png)
-92. 3. Уникальность элементов и сортировка. [#110225]
-[collect sorted](https://github.com/as310788/-job4j_tracker/blob/master/images/coolect%20Sorted.png)
+92. 3. Уникальность элементов и сортировка+тест[#110225]
+[collect sorted2](https://github.com/as310788/-job4j_tracker/blob/master/images/coolect%20Sorted.png)
        
 
 
