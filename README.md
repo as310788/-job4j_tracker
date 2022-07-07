@@ -189,6 +189,8 @@
 [collect sorted2](https://github.com/as310788/-job4j_tracker/blob/master/images/coolect%20Sorted.png)
 93. 5. Генерирование колоды карт. FlatMap [#504873]
 [coloda card](https://github.com/as310788/-job4j_tracker/blob/master/images/Koloda%20Card.png)
+94. 6. Преобразование матрицы чисел в список чисел. FlatMap. [#110228]
+[Matrix](https://github.com/as310788/-job4j_tracker/blob/master/images/matrixtolist.png)
        
 
 
