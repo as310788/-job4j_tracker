@@ -45,20 +45,19 @@ public class BankService {
 
     /**
      * Метод ищет пользователя по номеру паспорта.
-     * есь нужно использовать перебор всех элементов через цикл for-earch и метод Map.keySet.
+     * То есть нужно использовать перебор всех элементов через цикл for-earch и метод Map.keySet.
      * Если ничего не найдено - метод должен вернуть null.
      * @param passport номер паспорта пользователя.
      * @return метод должен вернуть null или пользователя.
+     * переделали методы поиска по паспорту вместо циклов на Stream API.
      */
+
     public User findByPassport(String passport) {
-            User user = null;
-            for (User name : users.keySet()) {
-                if (name.getPassport().equals(passport)) {
-                    user = name;
-                    break;
-                }
-            }
-            return user;
+        return users.keySet()
+                .stream()
+                .filter(s -> s.getPassport().equals(passport))
+                .findFirst()
+                .orElse(null);
     }
 
     /**
@@ -70,20 +69,19 @@ public class BankService {
      * @param passport номер паспорта пользователя.
      * @param requisite реквизиты счета пользователя.
      * @return метод должен вернуть null или нужные реквизиты счета.
+     * Переделали методы поиска по паспорту и реквизитам на использование вместо циклов Stream API.
      */
     public Account findByRequisite(String passport, String requisite) {
         User user = findByPassport(passport);
         Account a = null;
         if (user != null) {
-            List<Account> accounts = users.get(user);
-            for (Account account : accounts) {
-                if (account.getRequisite().equals(requisite)) {
-                    a = account;
-                    break;
-                }
-            }
+            return users.get(user)
+                    .stream()
+                    .filter(s -> s.getRequisite().equals(requisite))
+                    .findFirst()
+                    .orElse(null);
         }
-        return a;
+        return null;
     }
 
     /**
