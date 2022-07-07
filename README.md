@@ -187,6 +187,8 @@
 [List v Map тест](https://github.com/as310788/-job4j_tracker/blob/master/images/List%20in%20Map.png)
 92. 3. Уникальность элементов и сортировка+тест[#110225]
 [collect sorted2](https://github.com/as310788/-job4j_tracker/blob/master/images/coolect%20Sorted.png)
+93. 5. Генерирование колоды карт. FlatMap [#504873]
+[coloda card](https://github.com/as310788/-job4j_tracker/blob/master/images/Koloda%20Card.png)
        
 
 
