@@ -191,9 +191,9 @@
 [coloda card](https://github.com/as310788/-job4j_tracker/blob/master/images/Koloda%20Card.png)
 94. 6. Преобразование матрицы чисел в список чисел. FlatMap+тест[#110228]
 [Matrix2](https://github.com/as310788/-job4j_tracker/blob/master/images/matrixtolist.png)
-95. 7. Тестовое задание из модуля коллекции Lite переделать на Stream API. [#24260]
+95. 7.7. Тестовое задание из модуля коллекции Lite переделать на Stream API. [#24260 #319688]
 [find pasport](https://github.com/as310788/-job4j_tracker/blob/master/images/Bank2.png)
-96. 8. Шаблоны проектирования в Stream API [#310012]
+96. 8. Шаблоны проектирования-в-Stream-API[#310012]
 [Stream Builder](https://github.com/as310788/-job4j_tracker/blob/master/images/Stream%20Car.png)
        
 
