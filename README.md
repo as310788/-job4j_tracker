@@ -199,7 +199,7 @@
 [the best Stream AP](https://github.com/as310788/-job4j_tracker/blob/master/images/Best%20stream%20API.png)
 98. 1. Метод .of [#70623]
 [metod Listof](https://github.com/as310788/-job4j_tracker/blob/master/images/ListOF.png)
-99. 2. Local-Variable Type Inference [#70626]
+99. 2. Local-Variable-Type-Inference-[#70626]
 [var](https://github.com/as310788/-job4j_tracker/blob/master/images/var.png)
        
 
