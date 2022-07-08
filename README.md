@@ -195,7 +195,7 @@
 [find pasport](https://github.com/as310788/-job4j_tracker/blob/master/images/Bank2.png)
 96. 8. Шаблоны проектирования-в-Stream-API[#310012]
 [Stream Builder](https://github.com/as310788/-job4j_tracker/blob/master/images/Stream%20Car.png)
-97. 0. Stream API улучшения[#58167 #320030]
+97. 0. Stream API улучшения+test[#58167 #320030]
 [the best Stream AP](https://github.com/as310788/-job4j_tracker/blob/master/images/Best%20stream%20API.png)
        
 
