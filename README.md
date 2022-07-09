@@ -201,6 +201,8 @@
 [metod Listof](https://github.com/as310788/-job4j_tracker/blob/master/images/ListOF.png)
 99. 2. Local-Variable-Type-Inference-test-test2[#70626]
 [var2](https://github.com/as310788/-job4j_tracker/blob/master/images/var.png)
+100. 3. Optional - empty, of [#214711]
+[college](https://github.com/as310788/-job4j_tracker/blob/master/images/college.png)
        
 
 
