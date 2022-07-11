@@ -203,7 +203,7 @@
 [var2](https://github.com/as310788/-job4j_tracker/blob/master/images/var.png)
 100. 3. Optional - empty, of+тест[#214711]
 [college](https://github.com/as310788/-job4j_tracker/blob/master/images/college.png)
-101. 2. Аттестация+тест[#49777]
+101. 2. Аттестация [#49777 #320293]
 [attestat](https://github.com/as310788/-job4j_tracker/blob/master/images/attestat.png)
        
 
