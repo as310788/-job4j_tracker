@@ -205,6 +205,8 @@
 [college](https://github.com/as310788/-job4j_tracker/blob/master/images/college.png)
 101. 2. Аттестация [#49777 #320293]
 [attestat](https://github.com/as310788/-job4j_tracker/blob/master/images/attestat.png)
+102. 0.2. Перенос методов в Stream API [#279131]
+[product](https://github.com/as310788/-job4j_tracker/blob/master/images/ProductLable.jpg)
        
 
 
