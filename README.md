@@ -207,8 +207,8 @@
 [attestat](https://github.com/as310788/-job4j_tracker/blob/master/images/attestat.png)
 102. 0.2. Перенос методов в Stream API+тест+тест2[#279131]
 [product2](https://github.com/as310788/-job4j_tracker/blob/master/images/ProductLable.jpg)
-103. 4. Аттестация [#504878]
-[nwe attestacia](https://github.com/as310788/-job4j_tracker/commit/0cc7c596a30cd1fb04168575a68660ffce64daa5)
+103. 4. Аттестация+тест[#504878]
+[nwe attestacia+тест](https://github.com/as310788/-job4j_tracker/commit/0cc7c596a30cd1fb04168575a68660ffce64daa5)
        
 
 
